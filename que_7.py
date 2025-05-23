@@ -1,6 +1,6 @@
 #This code take percentage from user and give a grade as per percentage.
 
-perccentage=float(input("Enter Percentage: "))
+percentage=float(input("Enter Percentage: "))
 if percentage<40:
   print("Grade F")
 elif 40<=percentage<50:
