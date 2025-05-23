@@ -11,7 +11,7 @@ elif 60<=percentage<70:
   print("Grade C")
 elif 70<=percentage<80:
   print("Grade B")
-elif 80<percentage<90:
+elif 80<=percentage<90:
   print("Grade A")
-elif 90<percentage<100:
+elif 90<=percentage<100:
   print("Grade A+")
